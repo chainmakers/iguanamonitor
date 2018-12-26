@@ -1,0 +1,7 @@
+[package]
+name = "iguanamonitor"
+version = "0.1.0"
+authors = ["Jorian <jorian@outlook.com>"]
+
+[dependencies]
+dirs = "1.0"
